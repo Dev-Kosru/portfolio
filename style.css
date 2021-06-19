@@ -1,0 +1,48 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.right{
+    width:50%;
+    float:left;
+    margin:10% 0% 0% 5%;
+}
+.left{
+    width:40%;
+    float:left;
+    margin:5% 0% 0% 0%;
+}
+.right h1{
+    font-size: 76px;
+    line-height: 1.5;
+    text-transform: uppercase;
+}
+.right p{
+    font-size: 18px;
+    line-height: 1.7;
+    width:80%;
+    margin-top:3%;
+}
+.right span{
+    color:orange;
+}
+.left img{
+    width:100%;
+    text-align: right;
+}
+.btn{
+    width:20%;
+    padding:15px 30px;
+    margin-top:5%;
+    background-color:#FFA132;
+    color:#000;
+    border:none;
+    font-size: 18px;
+    font-weight:700;
+    cursor: pointer;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
